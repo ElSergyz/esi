@@ -10,6 +10,7 @@ public class Final {
 		int board2[][]= generateBoard(3,3);
 		boolean visual1[][]= generateBoolean(3,3);
 		boolean visual2[][]= generateBoolean(3,3);
+		int numRows = board1.length;	
 
 	}
 
